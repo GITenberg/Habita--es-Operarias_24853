@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '26682'
     url: http://www.gutenberg.org/2009/agents/26682
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24853#Habita--es-Operarias
 gutenberg_bookshelf: PT Política e Sociedade
 gutenberg_issued: '2008-03-16'
 gutenberg_type: Text
